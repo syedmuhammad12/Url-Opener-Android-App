@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Url Opener</string>
+    <string name="search_but">Search</string>
+    <string name="url_text">Enter Url</string>
+</resources>
